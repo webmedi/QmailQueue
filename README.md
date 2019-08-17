@@ -1,5 +1,6 @@
 # QmailQueue
 # Excute Image
+```bash
 ./QmailQueuePurge.sh
 queue is 0 : 280076
 `/var/qmail/queue/info/5/280076' を削除しました
@@ -25,3 +26,4 @@ queue is 5 : 279999
 `/var/qmail/queue/info/20/279999' を削除しました
 `/var/qmail/queue/local/20/279999' を削除しました
 `/var/qmail/queue/mess/20/279999' を削除しました
+```
